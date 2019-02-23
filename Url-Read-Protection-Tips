@@ -1,0 +1,12 @@
+
+أداة Dr0p1t : مخصصة لإنشاء حصان طروادة " Trojan " صغير الحجم
+لاختراق الاجهزة لأنظمة Windows و Linux لديه قدرة عالية على حذف أثاره مما يصعب عملية التحقيق الرقمي يكتشف مكافح الفيروسات ويعطله ثم تشغيل الملفات كمسؤول ... لذلك تعزيز حماية الجهاز عملياً
+اوامر التنصيب
+git clone https://github.com/D4Vinci/Dr0p1t-Framework.git
+chmod 777 -R Dr0p1t-Framework
+cd Dr0p1t-Framework
+sudo chmod +x install.sh
+./install.sh
+python Dr0p1t.py
+
+https://protection-tips.com/vb/threads/1069/
